@@ -1,0 +1,20 @@
+{
+  "name": "pouchdb-async",
+  "version": "1.0.0",
+  "description": "PuchDB-Async for implementing offline first with Node.Js",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "pouchdb": "^7.0.0",
+    "pouchdb-find": "^7.0.0",
+    "pouchdb-silverlining": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rizaldy Putra",
+  "license": "GPL-3.0"
+}
